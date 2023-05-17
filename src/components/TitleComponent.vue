@@ -7,7 +7,13 @@
         La mia prima app con Vite!
     </h1>
     <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia nemo aperiam vero, nostrum nesciunt doloribus nam laudantium? Labore quidem, dolorum et tenetur veritatis est, facere nisi velit enim quae sunt.
+        Siete pronti ragazzi? SÌ SIGNOR CAPITANO. Non ho sentito bene. SÌ SÌGNOR CAPITANO.
+        Oooooooh… Chi vive in un ananas in fondo al mare? SPONGEBOB SQUAREPANTS!
+        Assorbente e giallo e poroso lui è. SPONGEBOB SQUAREPANTS!
+        Se siete amanti delle assurdità marine… SPONGEBOB SQUAREPANTS!
+        Allora lasciatevi cadere sul ponte e dimenatevi come pesci. SPONGEBOB SQUAREPANTS!
+        SPONGEBOB SQUAREPANTS! SPONGEBOB SQUAREPANTS! SPONGEBOB SQUAREPANTS!
+        SpongeBooob…. SquarePaaants! Ahah ahahah! Whaaawahahy… 
     </p>
 </template>
 

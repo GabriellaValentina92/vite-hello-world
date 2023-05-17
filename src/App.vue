@@ -12,8 +12,8 @@
 
 <template>
 
-  <AppHero />
   <TitleComponent />
+  <AppHero />
 
 </template>
 
