@@ -5,14 +5,16 @@
   export default{
     components:{
       TitleComponent,
-      AppHero
+      AppHero,
     }
   }
 </script>
 
 <template>
+
   <AppHero />
   <TitleComponent />
+
 </template>
 
 <style scoped>
